@@ -14,4 +14,7 @@ Full release coming soon.
 * Continuous replication and benchmarking of state-of-the-art (SOTA) end-to-end models.
 * Development documentation and function comments for beginners.
 
+## Related works
+* [A Plug-and-Play Temporal Normalization Module for Robust Remote Photoplethysmography](https://github.com/KegangWangCCNU/TemporalNormalization/tree/main)
+
 The complete code is being organized. If you wish to add new features, please feel free to submit an issue.
